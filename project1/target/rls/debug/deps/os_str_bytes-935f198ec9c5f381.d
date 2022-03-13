@@ -1,0 +1,11 @@
+/home/korocouille/Epitech/Perso/Rust/Alpha001/project1/target/rls/debug/deps/os_str_bytes-935f198ec9c5f381.rmeta: /home/korocouille/.cargo/registry/src/github.com-1ecc6299db9ec823/os_str_bytes-6.0.0/src/lib.rs /home/korocouille/.cargo/registry/src/github.com-1ecc6299db9ec823/os_str_bytes-6.0.0/src/common/mod.rs /home/korocouille/.cargo/registry/src/github.com-1ecc6299db9ec823/os_str_bytes-6.0.0/src/util.rs /home/korocouille/.cargo/registry/src/github.com-1ecc6299db9ec823/os_str_bytes-6.0.0/src/common/raw.rs /home/korocouille/.cargo/registry/src/github.com-1ecc6299db9ec823/os_str_bytes-6.0.0/src/iter.rs /home/korocouille/.cargo/registry/src/github.com-1ecc6299db9ec823/os_str_bytes-6.0.0/src/pattern.rs /home/korocouille/.cargo/registry/src/github.com-1ecc6299db9ec823/os_str_bytes-6.0.0/src/raw_str.rs
+
+/home/korocouille/Epitech/Perso/Rust/Alpha001/project1/target/rls/debug/deps/os_str_bytes-935f198ec9c5f381.d: /home/korocouille/.cargo/registry/src/github.com-1ecc6299db9ec823/os_str_bytes-6.0.0/src/lib.rs /home/korocouille/.cargo/registry/src/github.com-1ecc6299db9ec823/os_str_bytes-6.0.0/src/common/mod.rs /home/korocouille/.cargo/registry/src/github.com-1ecc6299db9ec823/os_str_bytes-6.0.0/src/util.rs /home/korocouille/.cargo/registry/src/github.com-1ecc6299db9ec823/os_str_bytes-6.0.0/src/common/raw.rs /home/korocouille/.cargo/registry/src/github.com-1ecc6299db9ec823/os_str_bytes-6.0.0/src/iter.rs /home/korocouille/.cargo/registry/src/github.com-1ecc6299db9ec823/os_str_bytes-6.0.0/src/pattern.rs /home/korocouille/.cargo/registry/src/github.com-1ecc6299db9ec823/os_str_bytes-6.0.0/src/raw_str.rs
+
+/home/korocouille/.cargo/registry/src/github.com-1ecc6299db9ec823/os_str_bytes-6.0.0/src/lib.rs:
+/home/korocouille/.cargo/registry/src/github.com-1ecc6299db9ec823/os_str_bytes-6.0.0/src/common/mod.rs:
+/home/korocouille/.cargo/registry/src/github.com-1ecc6299db9ec823/os_str_bytes-6.0.0/src/util.rs:
+/home/korocouille/.cargo/registry/src/github.com-1ecc6299db9ec823/os_str_bytes-6.0.0/src/common/raw.rs:
+/home/korocouille/.cargo/registry/src/github.com-1ecc6299db9ec823/os_str_bytes-6.0.0/src/iter.rs:
+/home/korocouille/.cargo/registry/src/github.com-1ecc6299db9ec823/os_str_bytes-6.0.0/src/pattern.rs:
+/home/korocouille/.cargo/registry/src/github.com-1ecc6299db9ec823/os_str_bytes-6.0.0/src/raw_str.rs:
