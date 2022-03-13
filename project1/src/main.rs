@@ -1,4 +1,15 @@
+#![forbid(missing_docs)]
 #![forbid(unsafe_code)]
+#![warn(
+    clippy::all,
+    clippy::correctness,
+    clippy::suspicious,
+    clippy::style,
+    clippy::complexity,
+    clippy::perf,
+    clippy::nursery,
+    nonstandard_style
+)]
 
 //! calculator
 use crate::app::*;

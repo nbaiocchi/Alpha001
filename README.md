@@ -1,2 +1,3 @@
 # Alpha001
-First private project Rust
+
+Here you can find diferents mini project in rust
