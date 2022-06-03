@@ -23,8 +23,10 @@ fn main() {
     env_logger::try_init().ok();
     let app: Calculator = Calculator::parse();
 
+
     match app.command {
-        Command::Soustraction(params) => command_soustraction::soustraction(params),
+        // TODO : with help
+        Command::Multiplication(params) => command_multiplication::multiplication(params),
         Command::Addition(params) => command_addition::addition(params),
     };
 }
