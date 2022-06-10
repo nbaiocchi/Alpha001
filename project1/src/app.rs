@@ -17,4 +17,5 @@ pub enum Command {
     Multiplication(command_multiplication::MultiplicationOptions),
     /// Generates tab-completion script for your shell
     Addition(command_addition::AdditionOptions),
+    Calculator(command_calculator::CalculatorOptions),
 }

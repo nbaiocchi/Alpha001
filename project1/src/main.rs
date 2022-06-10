@@ -28,5 +28,6 @@ fn main() {
         // TODO : with help
         Command::Multiplication(params) => command_multiplication::multiplication(params),
         Command::Addition(params) => command_addition::addition(params),
+        Command::Calculator(params) => command_calculator::calculator(params),
     };
 }
